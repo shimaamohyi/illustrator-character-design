@@ -24,5 +24,5 @@ Feedback and suggestions are welcome!
 
 **Preview**
 Add preview image to README
+[![Preview](preview.jpg)](preview.jpg)
 
-![Design Preview](preview.jpg)
