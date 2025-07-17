@@ -13,7 +13,7 @@ A creative character illustration designed using **Adobe Illustrator**, focusing
 
 - `character_design.ai` → Source file (Adobe Illustrator)
 - `character_design.svg` → High-quality vector image
-- `preview.jpg` → Visual preview of the final design
+
 
 ##  Notes
 
