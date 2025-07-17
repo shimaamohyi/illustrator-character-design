@@ -11,8 +11,8 @@ A creative character illustration designed using **Adobe Illustrator**, focusing
 
 ## Files Included
 
-- `Logo.pdf` → Source file (Adobe Illustrator)
-- `Logo.svg` → High-quality vector image
+- `Charcter.pdf` → Source file (Adobe Illustrator)
+- `Charcter.svg` → High-quality vector image
 - `preview.jpg` → Visual preview of the final design
 
 ## Notes
