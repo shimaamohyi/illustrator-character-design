@@ -23,5 +23,5 @@ Feedback and suggestions are welcome!
 ---
 
 **Preview**
-[![Preview](preview.jpg)](preview.jpg)
+[![Preview](final/preview.jpg)](final/preview.jpg)
 
