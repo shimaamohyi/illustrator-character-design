@@ -13,8 +13,6 @@ A creative character illustration designed using **Adobe Illustrator**, focusing
 
 - `Charcter.pdf` → Source file (Adobe Illustrator)
 - `Charcter.svg` → High-quality vector image
-- `preview.jpg` → Visual preview of the final design
-
 ## Notes
 
 This project was part of a personal creative exploration using Illustrator.  
@@ -22,6 +20,4 @@ Feedback and suggestions are welcome!
 
 ---
 
-**Preview**
-[![Preview](final/preview.jpg)](final/preview.jpg)
 
